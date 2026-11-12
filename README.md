@@ -15,3 +15,7 @@
 
 * 🔜 Personal Developer Instance (PDI) Labs
    * Focus: Building hands-on proof-of-concepts, spinning up test tables, and practicing baseline configuration.
+* ❌ CAD (Certified Application Developer)
+   * Focus: Building custom scoped applications, scripting with server and client APIs, and designing app data models.
+* ❌ CTA (Certified Technical Architect)
+   * Focus: Long-term goal. Translating business requirements into enterprise-scale ServiceNow solutions across security, risk, and IT workflows.
