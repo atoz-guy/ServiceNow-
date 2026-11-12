@@ -8,4 +8,4 @@ Master the compliance logic.
 ## What this covers
 - Mapping CISM, ISO 27001, and risk metrics to the platform
 - Policies, controls, and risk registers in automated GRC / IRM workflows
-- Hands-on labs and notes coming soon
+- Hands-on labs and notes coming soon.
