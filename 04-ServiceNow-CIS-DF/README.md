@@ -1,12 +1,10 @@
-\# ✅ ServiceNow CIS-DF (Data Foundations)
+✅ ServiceNow CIS-DF (Data Foundations)
 
 
 
 Passed: Oct 2026
 
-
-
-\## What this covers
+What this covers
 
 \- CMDB and the ServiceNow data model
 
