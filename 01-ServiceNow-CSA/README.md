@@ -7,4 +7,4 @@ Master the system blueprint.
 
 ## What this covers
 - Tables, users, and core workflow automation
-- Hands-on labs and notes coming soon
+- Hands-on: the platform basics behind every build in [PDI-Labs-and-Builds](../PDI-Labs-and-Builds)
